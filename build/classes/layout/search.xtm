@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Search</title>
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/styles.css">
+    <link rel="stylesheet" type="text/css" href="/css/margin-padding.css">
+</head>
+<body>
+	<div class="container">
+		<div class="row mt20">
+			<div class="col-sm-9">
+				<input type="text" name="" class="form-control">
+			</div>
+			<div class="col-sm-3">
+				<a class="btn btn-blue">Find</a>
+			</div>
+		</div>
+		<div class="row mt20">
+			
+		</div>
+	</div>
+    
+	<script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+</body>
+</html>
